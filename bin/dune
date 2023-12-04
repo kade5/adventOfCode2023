@@ -1,0 +1,4 @@
+(executables
+ (public_names adventOfCode2023, day1)
+ (names main day1)
+ (libraries advent))
